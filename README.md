@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Check out the Deployed App [Here](https://rakshithracharya.github.io/SimpleWeatherApp/).
+
 ## Available Scripts
 
 In the project directory, you can run:
